@@ -1,0 +1,453 @@
+location_id,parent_id,path_to_top_parent,level,most_detailed,location_name,location_ascii_name
+1,1,1,0,0,Global,Global
+31,1,"1,31",1,0,"Central Europe, Eastern Europe, and Central Asia","Central Europe, Eastern Europe, and Central Asia"
+32,31,"1,31,32",2,0,Central Asia,Central Asia
+33,32,"1,31,32,33",3,1,Armenia,Armenia
+34,32,"1,31,32,34",3,1,Azerbaijan,Azerbaijan
+35,32,"1,31,32,35",3,1,Georgia,Georgia
+36,32,"1,31,32,36",3,1,Kazakhstan,Kazakhstan
+37,32,"1,31,32,37",3,1,Kyrgyzstan,Kyrgyzstan
+38,32,"1,31,32,38",3,1,Mongolia,Mongolia
+39,32,"1,31,32,39",3,1,Tajikistan,Tajikistan
+40,32,"1,31,32,40",3,1,Turkmenistan,Turkmenistan
+41,32,"1,31,32,41",3,1,Uzbekistan,Uzbekistan
+42,31,"1,31,42",2,0,Central Europe,Central Europe
+43,42,"1,31,42,43",3,1,Albania,Albania
+44,42,"1,31,42,44",3,1,Bosnia and Herzegovina,Bosnia and Herzegovina
+45,42,"1,31,42,45",3,1,Bulgaria,Bulgaria
+46,42,"1,31,42,46",3,1,Croatia,Croatia
+47,42,"1,31,42,47",3,1,Czechia,Czechia
+48,42,"1,31,42,48",3,1,Hungary,Hungary
+50,42,"1,31,42,50",3,1,Montenegro,Montenegro
+49,42,"1,31,42,49",3,1,North Macedonia,North Macedonia
+51,42,"1,31,42,51",3,1,Poland,Poland
+52,42,"1,31,42,52",3,1,Romania,Romania
+53,42,"1,31,42,53",3,1,Serbia,Serbia
+54,42,"1,31,42,54",3,1,Slovakia,Slovakia
+55,42,"1,31,42,55",3,1,Slovenia,Slovenia
+56,31,"1,31,56",2,0,Eastern Europe,Eastern Europe
+57,56,"1,31,56,57",3,1,Belarus,Belarus
+58,56,"1,31,56,58",3,1,Estonia,Estonia
+59,56,"1,31,56,59",3,1,Latvia,Latvia
+60,56,"1,31,56,60",3,1,Lithuania,Lithuania
+61,56,"1,31,56,61",3,1,Republic of Moldova,Republic of Moldova
+62,56,"1,31,56,62",3,1,Russian Federation,Russian Federation
+63,56,"1,31,56,63",3,1,Ukraine,Ukraine
+64,1,"1,64",1,0,High-income,High-income
+70,64,"1,64,70",2,0,Australasia,Australasia
+71,70,"1,64,70,71",3,1,Australia,Australia
+72,70,"1,64,70,72",3,1,New Zealand,New Zealand
+65,64,"1,64,65",2,0,High-income Asia Pacific,High-income Asia Pacific
+66,65,"1,64,65,66",3,1,Brunei Darussalam,Brunei Darussalam
+67,65,"1,64,65,67",3,1,Japan,Japan
+68,65,"1,64,65,68",3,1,Republic of Korea,Republic of Korea
+69,65,"1,64,65,69",3,1,Singapore,Singapore
+100,64,"1,64,100",2,0,High-income North America,High-income North America
+101,100,"1,64,100,101",3,0,Canada,Canada
+43858,101,"1,64,100,101,43858",4,1,Alberta,Alberta
+43859,101,"1,64,100,101,43859",4,1,British Columbia,British Columbia
+43860,101,"1,64,100,101,43860",4,1,Manitoba,Manitoba
+43861,101,"1,64,100,101,43861",4,1,New Brunswick,New Brunswick
+43862,101,"1,64,100,101,43862",4,1,Newfoundland and Labrador,Newfoundland and Labrador
+43863,101,"1,64,100,101,43863",4,1,Northwest Territories,Northwest Territories
+43864,101,"1,64,100,101,43864",4,1,Nova Scotia,Nova Scotia
+43865,101,"1,64,100,101,43865",4,1,Nunavut,Nunavut
+43866,101,"1,64,100,101,43866",4,1,Ontario,Ontario
+43867,101,"1,64,100,101,43867",4,1,Prince Edward Island,Prince Edward Island
+43868,101,"1,64,100,101,43868",4,1,Quebec,Quebec
+43869,101,"1,64,100,101,43869",4,1,Saskatchewan,Saskatchewan
+43870,101,"1,64,100,101,43870",4,1,Yukon,Yukon
+349,100,"1,64,100,349",3,1,Greenland,Greenland
+102,100,"1,64,100,102",3,0,United States of America,United States of America
+523,102,"1,64,100,102,523",4,1,Alabama,Alabama
+524,102,"1,64,100,102,524",4,1,Alaska,Alaska
+525,102,"1,64,100,102,525",4,1,Arizona,Arizona
+526,102,"1,64,100,102,526",4,1,Arkansas,Arkansas
+527,102,"1,64,100,102,527",4,1,California,California
+528,102,"1,64,100,102,528",4,1,Colorado,Colorado
+529,102,"1,64,100,102,529",4,1,Connecticut,Connecticut
+530,102,"1,64,100,102,530",4,1,Delaware,Delaware
+531,102,"1,64,100,102,531",4,1,District of Columbia,District of Columbia
+532,102,"1,64,100,102,532",4,1,Florida,Florida
+533,102,"1,64,100,102,533",4,1,Georgia,Georgia
+534,102,"1,64,100,102,534",4,1,Hawaii,Hawaii
+535,102,"1,64,100,102,535",4,1,Idaho,Idaho
+536,102,"1,64,100,102,536",4,1,Illinois,Illinois
+537,102,"1,64,100,102,537",4,1,Indiana,Indiana
+538,102,"1,64,100,102,538",4,1,Iowa,Iowa
+539,102,"1,64,100,102,539",4,1,Kansas,Kansas
+540,102,"1,64,100,102,540",4,1,Kentucky,Kentucky
+541,102,"1,64,100,102,541",4,1,Louisiana,Louisiana
+542,102,"1,64,100,102,542",4,1,Maine,Maine
+543,102,"1,64,100,102,543",4,1,Maryland,Maryland
+544,102,"1,64,100,102,544",4,1,Massachusetts,Massachusetts
+545,102,"1,64,100,102,545",4,1,Michigan,Michigan
+546,102,"1,64,100,102,546",4,1,Minnesota,Minnesota
+547,102,"1,64,100,102,547",4,1,Mississippi,Mississippi
+548,102,"1,64,100,102,548",4,1,Missouri,Missouri
+549,102,"1,64,100,102,549",4,1,Montana,Montana
+550,102,"1,64,100,102,550",4,1,Nebraska,Nebraska
+551,102,"1,64,100,102,551",4,1,Nevada,Nevada
+552,102,"1,64,100,102,552",4,1,New Hampshire,New Hampshire
+553,102,"1,64,100,102,553",4,1,New Jersey,New Jersey
+554,102,"1,64,100,102,554",4,1,New Mexico,New Mexico
+555,102,"1,64,100,102,555",4,1,New York,New York
+556,102,"1,64,100,102,556",4,1,North Carolina,North Carolina
+557,102,"1,64,100,102,557",4,1,North Dakota,North Dakota
+558,102,"1,64,100,102,558",4,1,Ohio,Ohio
+559,102,"1,64,100,102,559",4,1,Oklahoma,Oklahoma
+560,102,"1,64,100,102,560",4,1,Oregon,Oregon
+561,102,"1,64,100,102,561",4,1,Pennsylvania,Pennsylvania
+562,102,"1,64,100,102,562",4,1,Rhode Island,Rhode Island
+563,102,"1,64,100,102,563",4,1,South Carolina,South Carolina
+564,102,"1,64,100,102,564",4,1,South Dakota,South Dakota
+565,102,"1,64,100,102,565",4,1,Tennessee,Tennessee
+566,102,"1,64,100,102,566",4,1,Texas,Texas
+567,102,"1,64,100,102,567",4,1,Utah,Utah
+568,102,"1,64,100,102,568",4,1,Vermont,Vermont
+569,102,"1,64,100,102,569",4,1,Virginia,Virginia
+570,102,"1,64,100,102,570",4,0,Washington,Washington
+60886,570,"1,64,100,102,570,60886",5,1,King and Snohomish Counties,King and Snohomish Counties
+3539,570,"1,64,100,102,570,3539",5,1,Spokane County,Spokane County
+60887,570,"1,64,100,102,570,60887",5,1,"Washington except for King, Snohomish, and Spokane Counties","Washington except for King, Snohomish, and Spokane Counties"
+571,102,"1,64,100,102,571",4,1,West Virginia,West Virginia
+572,102,"1,64,100,102,572",4,1,Wisconsin,Wisconsin
+573,102,"1,64,100,102,573",4,1,Wyoming,Wyoming
+96,64,"1,64,96",2,0,Southern Latin America,Southern Latin America
+97,96,"1,64,96,97",3,1,Argentina,Argentina
+98,96,"1,64,96,98",3,1,Chile,Chile
+99,96,"1,64,96,99",3,1,Uruguay,Uruguay
+73,64,"1,64,73",2,0,Western Europe,Western Europe
+74,73,"1,64,73,74",3,1,Andorra,Andorra
+75,73,"1,64,73,75",3,1,Austria,Austria
+76,73,"1,64,73,76",3,1,Belgium,Belgium
+77,73,"1,64,73,77",3,1,Cyprus,Cyprus
+78,73,"1,64,73,78",3,1,Denmark,Denmark
+79,73,"1,64,73,79",3,1,Finland,Finland
+80,73,"1,64,73,80",3,1,France,France
+81,73,"1,64,73,81",3,0,Germany,Germany
+60377,81,"1,64,73,81,60377",4,1,Baden-Württemberg,Baden-Wurttemberg
+60378,81,"1,64,73,81,60378",4,1,Bavaria,Bavaria
+60379,81,"1,64,73,81,60379",4,1,Berlin,Berlin
+60380,81,"1,64,73,81,60380",4,1,Brandenburg,Brandenburg
+60381,81,"1,64,73,81,60381",4,1,Bremen,Bremen
+60382,81,"1,64,73,81,60382",4,1,Hamburg,Hamburg
+60383,81,"1,64,73,81,60383",4,1,Hesse,Hesse
+60384,81,"1,64,73,81,60384",4,1,Lower Saxony,Lower Saxony
+60385,81,"1,64,73,81,60385",4,1,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+60386,81,"1,64,73,81,60386",4,1,North Rhine-Westphalia,North Rhine-Westphalia
+60387,81,"1,64,73,81,60387",4,1,Rhineland-Palatinate,Rhineland-Palatinate
+60388,81,"1,64,73,81,60388",4,1,Saarland,Saarland
+60390,81,"1,64,73,81,60390",4,1,Saxony,Saxony
+60389,81,"1,64,73,81,60389",4,1,Saxony-Anhalt,Saxony-Anhalt
+60391,81,"1,64,73,81,60391",4,1,Schleswig-Holstein,Schleswig-Holstein
+60392,81,"1,64,73,81,60392",4,1,Thuringia,Thuringia
+82,73,"1,64,73,82",3,1,Greece,Greece
+83,73,"1,64,73,83",3,1,Iceland,Iceland
+84,73,"1,64,73,84",3,1,Ireland,Ireland
+85,73,"1,64,73,85",3,1,Israel,Israel
+86,73,"1,64,73,86",3,0,Italy,Italy
+35507,86,"1,64,73,86,35507",4,1,Abruzzo,Abruzzo
+35511,86,"1,64,73,86,35511",4,1,Basilicata,Basilicata
+35512,86,"1,64,73,86,35512",4,1,Calabria,Calabria
+35509,86,"1,64,73,86,35509",4,1,Campania,Campania
+35502,86,"1,64,73,86,35502",4,1,Emilia-Romagna,Emilia-Romagna
+35501,86,"1,64,73,86,35501",4,1,Friuli-Venezia Giulia,Friuli-Venezia Giulia
+35506,86,"1,64,73,86,35506",4,1,Lazio,Lazio
+35496,86,"1,64,73,86,35496",4,1,Liguria,Liguria
+35497,86,"1,64,73,86,35497",4,1,Lombardia,Lombardia
+35505,86,"1,64,73,86,35505",4,1,Marche,Marche
+35508,86,"1,64,73,86,35508",4,1,Molise,Molise
+35494,86,"1,64,73,86,35494",4,1,Piemonte,Piemonte
+35498,86,"1,64,73,86,35498",4,1,Provincia autonoma di Bolzano,Provincia autonoma di Bolzano
+35499,86,"1,64,73,86,35499",4,1,Provincia autonoma di Trento,Provincia autonoma di Trento
+35510,86,"1,64,73,86,35510",4,1,Puglia,Puglia
+35514,86,"1,64,73,86,35514",4,1,Sardegna,Sardegna
+35513,86,"1,64,73,86,35513",4,1,Sicilia,Sicilia
+35503,86,"1,64,73,86,35503",4,1,Toscana,Toscana
+35504,86,"1,64,73,86,35504",4,1,Umbria,Umbria
+35495,86,"1,64,73,86,35495",4,1,Valle d'Aosta,Valle d'Aosta
+35500,86,"1,64,73,86,35500",4,1,Veneto,Veneto
+87,73,"1,64,73,87",3,1,Luxembourg,Luxembourg
+88,73,"1,64,73,88",3,1,Malta,Malta
+367,73,"1,64,73,367",3,1,Monaco,Monaco
+89,73,"1,64,73,89",3,1,Netherlands,Netherlands
+90,73,"1,64,73,90",3,1,Norway,Norway
+91,73,"1,64,73,91",3,1,Portugal,Portugal
+396,73,"1,64,73,396",3,1,San Marino,San Marino
+92,73,"1,64,73,92",3,0,Spain,Spain
+60357,92,"1,64,73,92,60357",4,1,Andalucia,Andalucia
+60358,92,"1,64,73,92,60358",4,1,Aragon,Aragon
+60365,92,"1,64,73,92,60365",4,1,Asturias,Asturias
+60363,92,"1,64,73,92,60363",4,1,Balearic Islands,Balearic Islands
+60374,92,"1,64,73,92,60374",4,1,Basque Country,Basque Country
+60364,92,"1,64,73,92,60364",4,1,Canary Islands,Canary Islands
+60359,92,"1,64,73,92,60359",4,1,Cantabria,Cantabria
+60367,92,"1,64,73,92,60367",4,1,Castile and León,Castile and Leon
+60360,92,"1,64,73,92,60360",4,1,Castilla-La Mancha,Castilla-La Mancha
+60368,92,"1,64,73,92,60368",4,1,Catalonia,Catalonia
+60369,92,"1,64,73,92,60369",4,1,Ceuta,Ceuta
+60361,92,"1,64,73,92,60361",4,1,Community of Madrid,Community of Madrid
+60362,92,"1,64,73,92,60362",4,1,Extremadura,Extremadura
+60372,92,"1,64,73,92,60372",4,1,Galicia,Galicia
+60376,92,"1,64,73,92,60376",4,1,La Rioja,La Rioja
+60373,92,"1,64,73,92,60373",4,1,Melilla,Melilla
+60366,92,"1,64,73,92,60366",4,1,Murcia,Murcia
+60370,92,"1,64,73,92,60370",4,1,Navarre,Navarre
+60371,92,"1,64,73,92,60371",4,1,Valencian Community,Valencian Community
+93,73,"1,64,73,93",3,1,Sweden,Sweden
+94,73,"1,64,73,94",3,1,Switzerland,Switzerland
+95,73,"1,64,73,95",3,1,United Kingdom,United Kingdom
+103,1,"1,103",1,0,Latin America and Caribbean,Latin America and Caribbean
+120,103,"1,103,120",2,0,Andean Latin America,Andean Latin America
+121,120,"1,103,120,121",3,1,Bolivia (Plurinational State of),Bolivia (Plurinational State of)
+122,120,"1,103,120,122",3,1,Ecuador,Ecuador
+123,120,"1,103,120,123",3,1,Peru,Peru
+104,103,"1,103,104",2,0,Caribbean,Caribbean
+105,104,"1,103,104,105",3,1,Antigua and Barbuda,Antigua and Barbuda
+106,104,"1,103,104,106",3,1,Bahamas,Bahamas
+107,104,"1,103,104,107",3,1,Barbados,Barbados
+108,104,"1,103,104,108",3,1,Belize,Belize
+305,104,"1,103,104,305",3,1,Bermuda,Bermuda
+109,104,"1,103,104,109",3,1,Cuba,Cuba
+110,104,"1,103,104,110",3,1,Dominica,Dominica
+111,104,"1,103,104,111",3,1,Dominican Republic,Dominican Republic
+112,104,"1,103,104,112",3,1,Grenada,Grenada
+113,104,"1,103,104,113",3,1,Guyana,Guyana
+114,104,"1,103,104,114",3,1,Haiti,Haiti
+115,104,"1,103,104,115",3,1,Jamaica,Jamaica
+385,104,"1,103,104,385",3,1,Puerto Rico,Puerto Rico
+393,104,"1,103,104,393",3,1,Saint Kitts and Nevis,Saint Kitts and Nevis
+116,104,"1,103,104,116",3,1,Saint Lucia,Saint Lucia
+117,104,"1,103,104,117",3,1,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
+118,104,"1,103,104,118",3,1,Suriname,Suriname
+119,104,"1,103,104,119",3,1,Trinidad and Tobago,Trinidad and Tobago
+422,104,"1,103,104,422",3,1,United States Virgin Islands,United States Virgin Islands
+124,103,"1,103,124",2,0,Central Latin America,Central Latin America
+125,124,"1,103,124,125",3,1,Colombia,Colombia
+126,124,"1,103,124,126",3,1,Costa Rica,Costa Rica
+127,124,"1,103,124,127",3,1,El Salvador,El Salvador
+128,124,"1,103,124,128",3,1,Guatemala,Guatemala
+129,124,"1,103,124,129",3,1,Honduras,Honduras
+130,124,"1,103,124,130",3,0,Mexico,Mexico
+4643,130,"1,103,124,130,4643",4,1,Aguascalientes,Aguascalientes
+4644,130,"1,103,124,130,4644",4,1,Baja California,Baja California
+4645,130,"1,103,124,130,4645",4,1,Baja California Sur,Baja California Sur
+4646,130,"1,103,124,130,4646",4,1,Campeche,Campeche
+4649,130,"1,103,124,130,4649",4,1,Chiapas,Chiapas
+4650,130,"1,103,124,130,4650",4,1,Chihuahua,Chihuahua
+4647,130,"1,103,124,130,4647",4,1,Coahuila,Coahuila
+4648,130,"1,103,124,130,4648",4,1,Colima,Colima
+4652,130,"1,103,124,130,4652",4,1,Durango,Durango
+4653,130,"1,103,124,130,4653",4,1,Guanajuato,Guanajuato
+4654,130,"1,103,124,130,4654",4,1,Guerrero,Guerrero
+4655,130,"1,103,124,130,4655",4,1,Hidalgo,Hidalgo
+4656,130,"1,103,124,130,4656",4,1,Jalisco,Jalisco
+4657,130,"1,103,124,130,4657",4,1,México,Mexico
+4651,130,"1,103,124,130,4651",4,1,Mexico City,Mexico City
+4658,130,"1,103,124,130,4658",4,1,Michoacán de Ocampo,Michoacan de Ocampo
+4659,130,"1,103,124,130,4659",4,1,Morelos,Morelos
+4660,130,"1,103,124,130,4660",4,1,Nayarit,Nayarit
+4661,130,"1,103,124,130,4661",4,1,Nuevo León,Nuevo Leon
+4662,130,"1,103,124,130,4662",4,1,Oaxaca,Oaxaca
+4663,130,"1,103,124,130,4663",4,1,Puebla,Puebla
+4664,130,"1,103,124,130,4664",4,1,Querétaro,Queretaro
+4665,130,"1,103,124,130,4665",4,1,Quintana Roo,Quintana Roo
+4666,130,"1,103,124,130,4666",4,1,San Luis Potosí,San Luis Potosi
+4667,130,"1,103,124,130,4667",4,1,Sinaloa,Sinaloa
+4668,130,"1,103,124,130,4668",4,1,Sonora,Sonora
+4669,130,"1,103,124,130,4669",4,1,Tabasco,Tabasco
+4670,130,"1,103,124,130,4670",4,1,Tamaulipas,Tamaulipas
+4671,130,"1,103,124,130,4671",4,1,Tlaxcala,Tlaxcala
+4672,130,"1,103,124,130,4672",4,1,Veracruz de Ignacio de la Llave,Veracruz de Ignacio de la Llave
+4673,130,"1,103,124,130,4673",4,1,Yucatán,Yucatan
+4674,130,"1,103,124,130,4674",4,1,Zacatecas,Zacatecas
+131,124,"1,103,124,131",3,1,Nicaragua,Nicaragua
+132,124,"1,103,124,132",3,1,Panama,Panama
+133,124,"1,103,124,133",3,1,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of)
+134,103,"1,103,134",2,0,Tropical Latin America,Tropical Latin America
+135,134,"1,103,134,135",3,0,Brazil,Brazil
+4750,135,"1,103,134,135,4750",4,1,Acre,Acre
+4751,135,"1,103,134,135,4751",4,1,Alagoas,Alagoas
+4753,135,"1,103,134,135,4753",4,1,Amapá,Amapa
+4752,135,"1,103,134,135,4752",4,1,Amazonas,Amazonas
+4754,135,"1,103,134,135,4754",4,1,Bahia,Bahia
+4755,135,"1,103,134,135,4755",4,1,Ceará,Ceara
+4756,135,"1,103,134,135,4756",4,1,Distrito Federal,Distrito Federal
+4757,135,"1,103,134,135,4757",4,1,Espírito Santo,Espirito Santo
+4758,135,"1,103,134,135,4758",4,1,Goiás,Goias
+4759,135,"1,103,134,135,4759",4,1,Maranhão,Maranhao
+4762,135,"1,103,134,135,4762",4,1,Mato Grosso,Mato Grosso
+4761,135,"1,103,134,135,4761",4,1,Mato Grosso do Sul,Mato Grosso do Sul
+4760,135,"1,103,134,135,4760",4,1,Minas Gerais,Minas Gerais
+4763,135,"1,103,134,135,4763",4,1,Pará,Para
+4764,135,"1,103,134,135,4764",4,1,Paraíba,Paraiba
+4765,135,"1,103,134,135,4765",4,1,Paraná,Parana
+4766,135,"1,103,134,135,4766",4,1,Pernambuco,Pernambuco
+4767,135,"1,103,134,135,4767",4,1,Piaui,Piaui
+4768,135,"1,103,134,135,4768",4,1,Rio de Janeiro,Rio de Janeiro
+4769,135,"1,103,134,135,4769",4,1,Rio Grande do Norte,Rio Grande do Norte
+4772,135,"1,103,134,135,4772",4,1,Rio Grande do Sul,Rio Grande do Sul
+4770,135,"1,103,134,135,4770",4,1,Rondônia,Rondonia
+4771,135,"1,103,134,135,4771",4,1,Roraima,Roraima
+4773,135,"1,103,134,135,4773",4,1,Santa Catarina,Santa Catarina
+4775,135,"1,103,134,135,4775",4,1,São Paulo,Sao Paulo
+4774,135,"1,103,134,135,4774",4,1,Sergipe,Sergipe
+4776,135,"1,103,134,135,4776",4,1,Tocantins,Tocantins
+136,134,"1,103,134,136",3,1,Paraguay,Paraguay
+137,1,"1,137",1,0,North Africa and Middle East,North Africa and Middle East
+138,137,"1,137,138",2,0,North Africa and Middle East,North Africa and Middle East
+160,138,"1,137,138,160",3,1,Afghanistan,Afghanistan
+139,138,"1,137,138,139",3,1,Algeria,Algeria
+140,138,"1,137,138,140",3,1,Bahrain,Bahrain
+141,138,"1,137,138,141",3,1,Egypt,Egypt
+142,138,"1,137,138,142",3,1,Iran (Islamic Republic of),Iran (Islamic Republic of)
+143,138,"1,137,138,143",3,1,Iraq,Iraq
+144,138,"1,137,138,144",3,1,Jordan,Jordan
+145,138,"1,137,138,145",3,1,Kuwait,Kuwait
+146,138,"1,137,138,146",3,1,Lebanon,Lebanon
+147,138,"1,137,138,147",3,1,Libya,Libya
+148,138,"1,137,138,148",3,1,Morocco,Morocco
+150,138,"1,137,138,150",3,1,Oman,Oman
+149,138,"1,137,138,149",3,1,Palestine,Palestine
+151,138,"1,137,138,151",3,1,Qatar,Qatar
+152,138,"1,137,138,152",3,1,Saudi Arabia,Saudi Arabia
+522,138,"1,137,138,522",3,1,Sudan,Sudan
+153,138,"1,137,138,153",3,1,Syrian Arab Republic,Syrian Arab Republic
+154,138,"1,137,138,154",3,1,Tunisia,Tunisia
+155,138,"1,137,138,155",3,1,Turkey,Turkey
+156,138,"1,137,138,156",3,1,United Arab Emirates,United Arab Emirates
+157,138,"1,137,138,157",3,1,Yemen,Yemen
+158,1,"1,158",1,0,South Asia,South Asia
+159,158,"1,158,159",2,0,South Asia,South Asia
+161,159,"1,158,159,161",3,1,Bangladesh,Bangladesh
+162,159,"1,158,159,162",3,1,Bhutan,Bhutan
+163,159,"1,158,159,163",3,0,India,India
+4841,163,"1,158,159,163,4841",4,1,Andhra Pradesh,Andhra Pradesh
+4842,163,"1,158,159,163,4842",4,1,Arunachal Pradesh,Arunachal Pradesh
+4843,163,"1,158,159,163,4843",4,1,Assam,Assam
+4844,163,"1,158,159,163,4844",4,1,Bihar,Bihar
+4846,163,"1,158,159,163,4846",4,1,Chhattisgarh,Chhattisgarh
+60896,163,"1,158,159,163,60896",4,1,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli and Daman and Diu
+4849,163,"1,158,159,163,4849",4,1,Delhi,Delhi
+4850,163,"1,158,159,163,4850",4,1,Goa,Goa
+4851,163,"1,158,159,163,4851",4,1,Gujarat,Gujarat
+4852,163,"1,158,159,163,4852",4,1,Haryana,Haryana
+4853,163,"1,158,159,163,4853",4,1,Himachal Pradesh,Himachal Pradesh
+60893,163,"1,158,159,163,60893",4,1,Jammu and Kashmir,Jammu and Kashmir
+4855,163,"1,158,159,163,4855",4,1,Jharkhand,Jharkhand
+4856,163,"1,158,159,163,4856",4,1,Karnataka,Karnataka
+4857,163,"1,158,159,163,4857",4,1,Kerala,Kerala
+60892,163,"1,158,159,163,60892",4,1,Ladakh,Ladakh
+4859,163,"1,158,159,163,4859",4,1,Madhya Pradesh,Madhya Pradesh
+4860,163,"1,158,159,163,4860",4,1,Maharashtra,Maharashtra
+4861,163,"1,158,159,163,4861",4,1,Manipur,Manipur
+4862,163,"1,158,159,163,4862",4,1,Meghalaya,Meghalaya
+4863,163,"1,158,159,163,4863",4,1,Mizoram,Mizoram
+4864,163,"1,158,159,163,4864",4,1,Nagaland,Nagaland
+4865,163,"1,158,159,163,4865",4,1,Odisha,Odisha
+4867,163,"1,158,159,163,4867",4,1,Punjab,Punjab
+4868,163,"1,158,159,163,4868",4,1,Rajasthan,Rajasthan
+4869,163,"1,158,159,163,4869",4,1,Sikkim,Sikkim
+4870,163,"1,158,159,163,4870",4,1,Tamil Nadu,Tamil Nadu
+4871,163,"1,158,159,163,4871",4,1,Telangana,Telangana
+4872,163,"1,158,159,163,4872",4,1,Tripura,Tripura
+4873,163,"1,158,159,163,4873",4,1,Uttar Pradesh,Uttar Pradesh
+4874,163,"1,158,159,163,4874",4,1,Uttarakhand,Uttarakhand
+4875,163,"1,158,159,163,4875",4,1,West Bengal,West Bengal
+164,159,"1,158,159,164",3,1,Nepal,Nepal
+165,159,"1,158,159,165",3,0,Pakistan,Pakistan
+53615,165,"1,158,159,165,53615",4,1,Azad Jammu & Kashmir,Azad Jammu & Kashmir
+53616,165,"1,158,159,165,53616",4,1,Balochistan,Balochistan
+53617,165,"1,158,159,165,53617",4,1,Gilgit-Baltistan,Gilgit-Baltistan
+53618,165,"1,158,159,165,53618",4,1,Islamabad Capital Territory,Islamabad Capital Territory
+53619,165,"1,158,159,165,53619",4,1,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa
+53620,165,"1,158,159,165,53620",4,1,Punjab,Punjab
+53621,165,"1,158,159,165,53621",4,1,Sindh,Sindh
+4,1,"1,4",1,0,"Southeast Asia, East Asia, and Oceania","Southeast Asia, East Asia, and Oceania"
+5,4,"1,4,5",2,0,East Asia,East Asia
+7,5,"1,4,5,7",3,1,Democratic People's Republic of Korea,Democratic People's Republic of Korea
+21,4,"1,4,21",2,0,Oceania,Oceania
+298,21,"1,4,21,298",3,1,American Samoa,American Samoa
+320,21,"1,4,21,320",3,1,Cook Islands,Cook Islands
+22,21,"1,4,21,22",3,1,Fiji,Fiji
+351,21,"1,4,21,351",3,1,Guam,Guam
+23,21,"1,4,21,23",3,1,Kiribati,Kiribati
+24,21,"1,4,21,24",3,1,Marshall Islands,Marshall Islands
+25,21,"1,4,21,25",3,1,Micronesia (Federated States of),Micronesia (Federated States of)
+369,21,"1,4,21,369",3,1,Nauru,Nauru
+374,21,"1,4,21,374",3,1,Niue,Niue
+376,21,"1,4,21,376",3,1,Northern Mariana Islands,Northern Mariana Islands
+380,21,"1,4,21,380",3,1,Palau,Palau
+26,21,"1,4,21,26",3,1,Papua New Guinea,Papua New Guinea
+27,21,"1,4,21,27",3,1,Samoa,Samoa
+28,21,"1,4,21,28",3,1,Solomon Islands,Solomon Islands
+413,21,"1,4,21,413",3,1,Tokelau,Tokelau
+29,21,"1,4,21,29",3,1,Tonga,Tonga
+416,21,"1,4,21,416",3,1,Tuvalu,Tuvalu
+30,21,"1,4,21,30",3,1,Vanuatu,Vanuatu
+9,4,"1,4,9",2,0,Southeast Asia,Southeast Asia
+10,9,"1,4,9,10",3,1,Cambodia,Cambodia
+11,9,"1,4,9,11",3,1,Indonesia,Indonesia
+12,9,"1,4,9,12",3,1,Lao People's Democratic Republic,Lao People's Democratic Republic
+13,9,"1,4,9,13",3,1,Malaysia,Malaysia
+14,9,"1,4,9,14",3,1,Maldives,Maldives
+183,9,"1,4,9,183",3,1,Mauritius,Mauritius
+15,9,"1,4,9,15",3,1,Myanmar,Myanmar
+16,9,"1,4,9,16",3,1,Philippines,Philippines
+186,9,"1,4,9,186",3,1,Seychelles,Seychelles
+17,9,"1,4,9,17",3,1,Sri Lanka,Sri Lanka
+18,9,"1,4,9,18",3,1,Thailand,Thailand
+19,9,"1,4,9,19",3,1,Timor-Leste,Timor-Leste
+20,9,"1,4,9,20",3,1,Viet Nam,Viet Nam
+166,1,"1,166",1,0,Sub-Saharan Africa,Sub-Saharan Africa
+167,166,"1,166,167",2,0,Central Sub-Saharan Africa,Central Sub-Saharan Africa
+168,167,"1,166,167,168",3,1,Angola,Angola
+169,167,"1,166,167,169",3,1,Central African Republic,Central African Republic
+170,167,"1,166,167,170",3,1,Congo,Congo
+171,167,"1,166,167,171",3,1,Democratic Republic of the Congo,Democratic Republic of the Congo
+172,167,"1,166,167,172",3,1,Equatorial Guinea,Equatorial Guinea
+173,167,"1,166,167,173",3,1,Gabon,Gabon
+174,166,"1,166,174",2,0,Eastern Sub-Saharan Africa,Eastern Sub-Saharan Africa
+175,174,"1,166,174,175",3,1,Burundi,Burundi
+176,174,"1,166,174,176",3,1,Comoros,Comoros
+177,174,"1,166,174,177",3,1,Djibouti,Djibouti
+178,174,"1,166,174,178",3,1,Eritrea,Eritrea
+179,174,"1,166,174,179",3,1,Ethiopia,Ethiopia
+180,174,"1,166,174,180",3,1,Kenya,Kenya
+181,174,"1,166,174,181",3,1,Madagascar,Madagascar
+182,174,"1,166,174,182",3,1,Malawi,Malawi
+184,174,"1,166,174,184",3,1,Mozambique,Mozambique
+185,174,"1,166,174,185",3,1,Rwanda,Rwanda
+187,174,"1,166,174,187",3,1,Somalia,Somalia
+435,174,"1,166,174,435",3,1,South Sudan,South Sudan
+190,174,"1,166,174,190",3,1,Uganda,Uganda
+189,174,"1,166,174,189",3,1,United Republic of Tanzania,United Republic of Tanzania
+191,174,"1,166,174,191",3,1,Zambia,Zambia
+192,166,"1,166,192",2,0,Southern Sub-Saharan Africa,Southern Sub-Saharan Africa
+193,192,"1,166,192,193",3,1,Botswana,Botswana
+197,192,"1,166,192,197",3,1,Eswatini,Eswatini
+194,192,"1,166,192,194",3,1,Lesotho,Lesotho
+195,192,"1,166,192,195",3,1,Namibia,Namibia
+196,192,"1,166,192,196",3,1,South Africa,South Africa
+198,192,"1,166,192,198",3,1,Zimbabwe,Zimbabwe
+199,166,"1,166,199",2,0,Western Sub-Saharan Africa,Western Sub-Saharan Africa
+200,199,"1,166,199,200",3,1,Benin,Benin
+201,199,"1,166,199,201",3,1,Burkina Faso,Burkina Faso
+203,199,"1,166,199,203",3,1,Cabo Verde,Cabo Verde
+202,199,"1,166,199,202",3,1,Cameroon,Cameroon
+204,199,"1,166,199,204",3,1,Chad,Chad
+205,199,"1,166,199,205",3,1,Côte d'Ivoire,Cote d'Ivoire
+206,199,"1,166,199,206",3,1,Gambia,Gambia
+207,199,"1,166,199,207",3,1,Ghana,Ghana
+208,199,"1,166,199,208",3,1,Guinea,Guinea
+209,199,"1,166,199,209",3,1,Guinea-Bissau,Guinea-Bissau
+210,199,"1,166,199,210",3,1,Liberia,Liberia
+211,199,"1,166,199,211",3,1,Mali,Mali
+212,199,"1,166,199,212",3,1,Mauritania,Mauritania
+213,199,"1,166,199,213",3,1,Niger,Niger
+214,199,"1,166,199,214",3,1,Nigeria,Nigeria
+215,199,"1,166,199,215",3,1,Sao Tome and Principe,Sao Tome and Principe
+216,199,"1,166,199,216",3,1,Senegal,Senegal
+217,199,"1,166,199,217",3,1,Sierra Leone,Sierra Leone
+218,199,"1,166,199,218",3,1,Togo,Togo
