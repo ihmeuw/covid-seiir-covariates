@@ -1,0 +1,11 @@
+{
+    "description": "<p>Covariate data used in the IHME COVID-19 SEIIR model.</p>", 
+    "license": "MIT", 
+    "upload_type": "data", 
+    "creators": [
+        {
+            "affiliation": "Institute for Health Metrics and Evaluation", 
+            "name": "The IHME COVID-19 modeling team"
+        }
+    ],
+}
